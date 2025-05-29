@@ -1,5 +1,6 @@
 .vs
 *.user
 */obj/Debug
+*/obj/Release
 */bin
 packages
